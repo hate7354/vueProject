@@ -10,3 +10,11 @@
 2022-07-18 16:37:04.281  INFO 9312 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
 2022-07-18 16:37:04.281  INFO 9312 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.64]
 2022-07-18 16:37:04.322  INFO 9312 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-07-18 16:37:04.323  INFO 9312 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1098 ms
+2022-07-18 16:37:04.509  INFO 9312 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2022-07-18 16:37:04.598  INFO 9312 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-07-18 16:37:04.620  INFO 9312 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-07-18 16:37:04.627  INFO 9312 --- [restartedMain] com.example.backend.BackendApplication   : Started BackendApplication in 1.768 seconds (JVM running for 2.076)
+2022-07-18 17:06:01.032  INFO 9312 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-07-18 17:06:01.032  INFO 9312 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-07-18 17:06:01.033  INFO 9312 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 0 ms
