@@ -1,0 +1,12 @@
+2022-07-18 16:32:14.814  INFO 30580 --- [main] c.e.backend.BackendApplicationTests      : Starting BackendApplicationTests using Java 1.8.0_161 on DESKTOP-VMBF4NM with PID 30580 (started by web1 in c:\Users\web1\Desktop\backend\vueProject)
+2022-07-18 16:32:14.817  INFO 30580 --- [main] c.e.backend.BackendApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2022-07-18 16:32:15.749  INFO 30580 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2022-07-18 16:32:15.949  INFO 30580 --- [main] c.e.backend.BackendApplicationTests      : Started BackendApplicationTests in 1.387 seconds (JVM running for 2.127)
+2022-07-18 16:37:03.184  INFO 9312 --- [restartedMain] com.example.backend.BackendApplication   : Starting BackendApplication using Java 1.8.0_161 on DESKTOP-VMBF4NM with PID 9312 (C:\Users\web1\Desktop\backend\vueProject\target\classes started by web1 in C:\Users\web1\Desktop\backend\vueProject)
+2022-07-18 16:37:03.186  INFO 9312 --- [restartedMain] com.example.backend.BackendApplication   : No active profile set, falling back to 1 default profile: "default"
+2022-07-18 16:37:03.223  INFO 9312 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-07-18 16:37:03.224  INFO 9312 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-07-18 16:37:04.270  INFO 9312 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-07-18 16:37:04.281  INFO 9312 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-07-18 16:37:04.281  INFO 9312 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.64]
+2022-07-18 16:37:04.322  INFO 9312 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
