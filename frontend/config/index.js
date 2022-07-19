@@ -35,7 +35,6 @@ module.exports = {
   },
 
   build: {
-    // Template for index.html
     index: path.resolve(
       __dirname,
       "../../src/main/resources/static/index.html"

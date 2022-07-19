@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "1.0.0",
-  "description": "",
+  "description": "vue project",
   "author": "Jin Woong Lee <80955533+hate7354@users.noreply.github.com>",
   "private": true,
   "scripts": {
