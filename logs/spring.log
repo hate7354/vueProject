@@ -38,3 +38,7 @@
 2022-07-19 15:44:41.413  INFO 34844 --- [main] c.e.backend.BackendApplicationTests      : No active profile set, falling back to 1 default profile: "default"
 2022-07-19 15:44:42.356  INFO 34844 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
 2022-07-19 15:44:42.553  INFO 34844 --- [main] c.e.backend.BackendApplicationTests      : Started BackendApplicationTests in 1.396 seconds (JVM running for 2.164)
+2022-07-19 16:27:34.538  INFO 23508 --- [main] c.e.backend.BackendApplicationTests      : Starting BackendApplicationTests using Java 1.8.0_161 on Oh-Chanyoung with PID 23508 (started by cyoh in d:\workspace2\vueProject)
+2022-07-19 16:27:34.540  INFO 23508 --- [main] c.e.backend.BackendApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2022-07-19 16:27:35.350  INFO 23508 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2022-07-19 16:27:35.509  INFO 23508 --- [main] c.e.backend.BackendApplicationTests      : Started BackendApplicationTests in 1.161 seconds (JVM running for 1.836)
